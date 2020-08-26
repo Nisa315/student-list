@@ -1,0 +1,7 @@
+Apple
+Oranges
+grocery
+cloths
+eatables
+pens
+books
